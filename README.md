@@ -1,2 +1,3 @@
 # HRI-Grasp
-RefGrasp Dataset
+
+Our RefGrasp dataset will be released soon
